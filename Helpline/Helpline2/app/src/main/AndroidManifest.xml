@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.helpline">
+
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/helppng"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity" />
+        <activity android:name=".seven">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".second"/>
+        <activity android:name=".third" />
+        <activity android:name=".four" />
+        <activity android:name=".five" />
+        <activity android:name=".six" />
+        <activity android:name=".kotowali"/>
+        <activity android:name=".bakalia" />
+        <activity android:name=".pahartali" />
+        <activity android:name=".bayezid" />
+        <activity android:name=".chandgaon" />
+        <activity android:name=".khulshi" />
+        <activity android:name=".halisahar" />
+        <activity android:name=".port" />
+        <activity android:name=".doublemooring" />
+        <activity android:name=".panchlaish" />
+        <activity android:name=".commissioner" />
+        <activity android:name=".agrabad" />
+        <activity android:name=".bandar" />
+        <activity android:name=".kalur" />
+        <activity android:name=".lama" />
+        <activity android:name=".nand" />
+        <activity android:name=".bostami" />
+        <activity android:name=".chandpura" />
+        <activity android:name=".e" />
+        <activity android:name=".m" />
+        <activity android:name=".rab" />
+        <activity android:name=".cscr" />
+        <activity android:name=".maoshishu" />
+        <activity android:name=".al" />
+        <activity android:name=".ustc" />
+        <activity android:name=".metro" />
+        <activity android:name=".diabetic" />
+        <activity android:name=".general1" />
+        <activity android:name=".ctgmedical" />
+        <activity android:name=".poly" />
+        <activity android:name=".cmh" />
+        <activity android:name=".desh" />
+        <activity android:name=".hali" />
+        <activity android:name=".holy" />
+        <activity android:name=".lion" />
+        <activity android:name=".moni" />
+        <activity android:name=".national" />
+        <activity android:name=".max" />
+        <activity android:name=".alfa" />
+        <activity android:name=".alif" />
+        <activity android:name=".center" />
+        <activity android:name=".health" />
+        <activity android:name=".dolphin" />
+        <activity android:name=".cresecent" />
+        <activity android:name=".media" />
+        <activity android:name=".provhati" />
+        <activity android:name=".surgi" />
+        <activity android:name=".upasham" />
+    </application>
+
+</manifest>

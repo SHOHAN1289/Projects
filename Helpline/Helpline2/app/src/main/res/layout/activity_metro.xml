@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".metro">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="185dp"
+        android:background="@drawable/metro" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Chittagong metropoliton hospital\n
+031-651242\n
+698/452 O.R. Nizam Road, চট্টগ্রাম 4001
+
+"
+        android:gravity="center"
+        android:textStyle="bold"
+        android:textSize="20dp"
+        android:textColor="#000"
+        android:layout_marginTop="20dp"
+
+        />
+</LinearLayout>

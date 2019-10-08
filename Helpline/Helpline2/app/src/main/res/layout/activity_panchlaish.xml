@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".panchlaish">
+
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="185dp"
+        android:background="@drawable/police" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="OC Panchlaish \n
+01713373258 \n
+031-652797\n
+O.R. Nizam Rd, চট্টগ্রাম 4203"
+        android:textStyle="bold"
+        android:textSize="20dp"
+        android:textColor="#000"
+        android:layout_marginTop="20dp"
+        android:gravity="center"/>
+
+
+</LinearLayout>

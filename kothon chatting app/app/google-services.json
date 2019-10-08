@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "710719845765",
+    "firebase_url": "https://whatsapp-12951.firebaseio.com",
+    "project_id": "whatsapp-12951",
+    "storage_bucket": "whatsapp-12951.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710719845765:android:1a488a1efb38f3f0",
+        "android_client_info": {
+          "package_name": "com.example.whatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710719845765-p8tgvvin1dmvlu64u91t1teglps9unfm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.whatsapp",
+            "certificate_hash": "d0784ebf14bf2e777ae0b87df3ead693969ff82b"
+          }
+        },
+        {
+          "client_id": "710719845765-h1pckjmtrhl9k6osl6d0vqm5uh87c6o7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBy9NVvB3qRtxbTRgMokKz37cyoUnkj1qs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "710719845765-h1pckjmtrhl9k6osl6d0vqm5uh87c6o7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710719845765:android:e43c8facf7a6366e",
+        "android_client_info": {
+          "package_name": "com.example.whatsappclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710719845765-0a1sv7lh4itrpvavcj5842vab4e2hiik.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.whatsappclone",
+            "certificate_hash": "d0784ebf14bf2e777ae0b87df3ead693969ff82b"
+          }
+        },
+        {
+          "client_id": "710719845765-h1pckjmtrhl9k6osl6d0vqm5uh87c6o7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBy9NVvB3qRtxbTRgMokKz37cyoUnkj1qs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "710719845765-h1pckjmtrhl9k6osl6d0vqm5uh87c6o7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710719845765:android:8329271cc8965605",
+        "android_client_info": {
+          "package_name": "com.simcoder.whatsappclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710719845765-0n3oaavf77vq3140ooo7bbihkmqkqdrv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.simcoder.whatsappclone",
+            "certificate_hash": "d0784ebf14bf2e777ae0b87df3ead693969ff82b"
+          }
+        },
+        {
+          "client_id": "710719845765-h1pckjmtrhl9k6osl6d0vqm5uh87c6o7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBy9NVvB3qRtxbTRgMokKz37cyoUnkj1qs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "710719845765-h1pckjmtrhl9k6osl6d0vqm5uh87c6o7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/black"
+    tools:context=".MainActivity"
+    android:orientation="vertical"
+
+    >
+
+    <RadioGroup
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="100dp"
+        android:layout_marginRight="100dp"
+        android:fontFamily="monospace"
+        android:onClick="POLICE"
+        android:text="POLICE"
+        android:textSize="18dp"
+        android:textStyle="bold"
+        android:layout_marginTop="200dp"
+
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="FIRESERVICE"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="100dp"
+        android:layout_marginLeft="100dp"
+        android:textSize="18dp"
+        android:textStyle="bold"
+        android:fontFamily="monospace"
+        android:onClick="fireservice"
+
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="RAB"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="100dp"
+        android:layout_marginLeft="100dp"
+        android:textSize="18dp"
+        android:textStyle="bold"
+        android:fontFamily="monospace"
+        android:onClick="rab"
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="HOSPITAL"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="100dp"
+        android:layout_marginLeft="100dp"
+        android:textSize="18dp"
+        android:textStyle="bold"
+        android:fontFamily="monospace"
+        android:onClick="hospital"
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="AMBULANCE"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="100dp"
+        android:layout_marginLeft="100dp"
+        android:textSize="18dp"
+        android:textStyle="bold"
+        android:fontFamily="monospace"
+        android:onClick="ambulance"
+        />
+    </LinearLayout>
+
+
+

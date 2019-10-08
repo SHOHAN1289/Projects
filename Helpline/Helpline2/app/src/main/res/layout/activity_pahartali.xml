@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".pahartali">
+
+
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="185dp"
+        android:background="@drawable/police" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text=" OC Pahartali (North Zone)\n
+01713373257\n
+031-751335\n
+থানা রোড, চট্টগ্রাম
+                             "
+        android:textStyle="bold"
+        android:textSize="20dp"
+        android:textColor="#000"
+        android:layout_marginTop="20dp"
+        android:gravity="center"/>
+
+
+
+</LinearLayout>
